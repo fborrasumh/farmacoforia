@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Si usas este software, cítalo con estos metadatos."
+title: "FarmacoforIA"
+type: software
+authors:
+  - family-names: "Borrás Rocher"
+    given-names: "Fernando"
+    affiliation: "Universidad Miguel Hernández de Elche"
+    orcid: "https://orcid.org/0000-0002-5519-4573"
+  - family-names: "Zink Lorre"
+    given-names: "Nathalie"
+    affiliation: "Universidad Miguel Hernández de Elche"
+    orcid: "https://orcid.org/0000-0003-3081-995X"
+doi: "10.5281/zenodo.23416307"
+version: "1.0.0"
+date-released: "2026-10-16"
+url: "https://fborrasumh.github.io/farmacoforia/"
+repository-code: "https://github.com/fborrasumh/farmacoforia"
+license: MIT
